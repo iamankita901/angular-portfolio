@@ -1,0 +1,17 @@
+.personal-info {
+  background-color: #3e7cb1; 
+  color: white; 
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.personal-info ul {
+  list-style: none;
+  padding: 0;
+}
+
+.personal-info li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
